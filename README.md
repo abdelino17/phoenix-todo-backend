@@ -87,7 +87,7 @@ So I decided to build a classic frontend application (todo app) with multiple ba
 
 <!-- Challenge -->
 ## Challenge
-As I said below, this repo is part of my challenge of building a single frontend app with a backend developed in multiple languages.
+As I said above, this repo is part of my challenge of building a single frontend app with a backend developed in multiple languages.
 
 - [Build a Frontend Todo App with React and TypeScript](https://github.com/abdelino17/react-todo-frontend)
 
